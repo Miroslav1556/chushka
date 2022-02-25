@@ -1,0 +1,72 @@
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\appsettings.json
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.exe
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.deps.json
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.runtimeconfig.json
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.runtimeconfig.dev.json
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\ref\CHUSHKA MG 12D.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.Views.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\CHUSHKA MG 12D.Views.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.AssemblyInfo.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.RazorAssemblyInfo.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.RazorAssemblyInfo.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\staticwebassets\CHUSHKA MG 12D.StaticWebAssets.Manifest.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\staticwebassets\CHUSHKA MG 12D.StaticWebAssets.xml
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\scopedcss\bundle\CHUSHKA MG 12D.styles.css
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.TagHelpers.input.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.TagHelpers.output.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.RazorCoreGenerate.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.RazorTargetAssemblyInfo.cs
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.Views.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.csproj.CopyComplete
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\ref\CHUSHKA MG 12D.dll
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.pdb
+C:\Users\Student\source\repos\CHUSHKA MG 12D\CHUSHKA MG 12D\obj\Debug\net5.0\CHUSHKA MG 12D.genruntimeconfig.cache
